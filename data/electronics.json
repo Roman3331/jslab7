@@ -1,0 +1,10 @@
+{
+    "categoryName": "Електроніка",
+    "items": [
+        { "id": 1, "name": "Смартфон", "shortname": "smartphone", "description": "Lorem ipsum dolor sit amet.", "price": 599.99 },
+        { "id": 2, "name": "Ноутбук", "shortname": "laptop", "description": "Потужний ноутбук для роботи.", "price": 999.99 },
+        { "id": 3, "name": "Навушники", "shortname": "headphones", "description": "Бездротові навушники.", "price": 149.99 },
+        { "id": 4, "name": "Планшет", "shortname": "tablet", "description": "Компактний планшет.", "price": 399.99 },
+        { "id": 5, "name": "Смарт-годинник", "shortname": "smartwatch", "description": "Lorem ipsum.", "price": 199.99 }
+    ]
+}

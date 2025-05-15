@@ -1,0 +1,11 @@
+{
+    "categoryName": "Книги",
+    "items": [
+        { "id": 1, "name": "Роман", "shortname": "novel", "description": "Цікавий роман.", "price": 19.99 },
+        { "id": 2, "name": "Наукова література", "shortname": "science", "description": "Lorem ipsum.", "price": 39.99 },
+        { "id": 3, "name": "Дитяча книга", "shortname": "kids", "description": "Книга для дітей.", "price": 14.99 },
+        { "id": 4, "name": "Біографія", "shortname": "biography", "description": "Життєпис відомої особи.", "price": 24.99 },
+        { "id": 5, "name": "Фантастика", "shortname": "scifi", "description": "Фантастичний роман.", "price": 22.99 },
+        { "id": 6, "name": "Поезія", "shortname": "poetry", "description": "Збірка віршів.", "price": 17.99 }
+    ]
+}

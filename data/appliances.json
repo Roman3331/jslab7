@@ -1,0 +1,9 @@
+{
+    "categoryName": "Побутова техніка",
+    "items": [
+        { "id": 1, "name": "Холодильник", "shortname": "fridge", "description": "Сучасний холодильник.", "price": 499.99 },
+        { "id": 2, "name": "Пральна машина", "shortname": "washer", "description": "Енергоефективна.", "price": 399.99 },
+        { "id": 3, "name": "Мікрохвильовка", "shortname": "microwave", "description": "Компактна модель.", "price": 99.99 },
+        { "id": 4, "name": "Пилосос", "shortname": "vacuum", "description": "Потужний пилосос.", "price": 149.99 }
+    ]
+}

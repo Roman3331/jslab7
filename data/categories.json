@@ -1,0 +1,7 @@
+{
+    "categories": [
+        { "id": 1, "name": "Електроніка", "shortname": "electronics", "notes": "Lorem ipsum dolor sit amet." },
+        { "id": 2, "name": "Книги", "shortname": "books", "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+        { "id": 3, "name": "Побутова техніка", "shortname": "appliances", "notes": "" }
+    ]
+}
